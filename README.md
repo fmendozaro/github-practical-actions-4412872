@@ -1,4 +1,4 @@
-# Practical GitHub Actions
+# Practical GitHub Actions from Ln Learning
 This is the repository for the LinkedIn Learning course Practical GitHub Actions. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Practical GitHub Actions][lil-thumbnail-url] 
